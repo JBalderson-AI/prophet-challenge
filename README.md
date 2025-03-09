@@ -1,7 +1,7 @@
 # Module 8: Correlating search trends and stock prices
 
 ## Project Overview
-This project analyzes Google Search Trends for MercadoLibre and explores their relationship with stock price patterns. The study applies time series analysis using Facebook's Prophet forecasting model to identify seasonal patterns and predict future search interest.
+This project analyzes Google Search Trends for MercadoLibre and explores their relationship with stock price patterns. The study applies time series analysis using the Prophet forecasting model to identify seasonal patterns and predict future search interest.
 
 ## Key Objectives
 - **Find unusual patterns in search traffic**
@@ -27,8 +27,8 @@ This project analyzes Google Search Trends for MercadoLibre and explores their r
 ## Tools & Libraries
 - Python
 - Pandas, NumPy for data manipulation
-- Matplotlib, Seaborn for data visualization
-- Facebook Prophet for time-series forecasting
+- Matplotlib for data visualization
+- Prophet for time-series forecasting
 - Scikit-learn for data normalization
 
 ## Key Findings
